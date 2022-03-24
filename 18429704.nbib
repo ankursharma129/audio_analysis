@@ -1,0 +1,63 @@
+PMID- 18429704
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20081007
+LR  - 20080723
+IS  - 1523-9829 (Print)
+IS  - 1523-9829 (Linking)
+VI  - 10
+DP  - 2008
+TI  - Neural stimulation and recording electrodes.
+PG  - 275-309
+LID - 10.1146/annurev.bioeng.10.061807.160518 [doi]
+AB  - Electrical stimulation of nerve tissue and recording of neural electrical activity 
+      are the basis of emerging prostheses and treatments for spinal cord injury, stroke, 
+      sensory deficits, and neurological disorders. An understanding of the 
+      electrochemical mechanisms underlying the behavior of neural stimulation and 
+      recording electrodes is important for the development of chronically implanted 
+      devices, particularly those employing large numbers of microelectrodes. For 
+      stimulation, materials that support charge injection by capacitive and faradaic 
+      mechanisms are available. These include titanium nitride, platinum, and iridium 
+      oxide, each with certain advantages and limitations. The use of charge-balanced 
+      waveforms and maximum electrochemical potential excursions as criteria for 
+      reversible charge injection with these electrode materials are described and 
+      critiqued. Techniques for characterizing electrochemical properties relevant to 
+      stimulation and recording are described with examples of differences in the in vitro 
+      and in vivo response of electrodes.
+FAU - Cogan, Stuart F
+AU  - Cogan SF
+AD  - EIC Laboratories Inc., Norwood, MA 02062, USA. scogan@eiclabs.com
+LA  - eng
+GR  - 2R44 NS 049687-02/NS/NINDS NIH HHS/United States
+GR  - R01 EB 002184-02/EB/NIBIB NIH HHS/United States
+GR  - R01 NS 054121/NS/NINDS NIH HHS/United States
+GR  - R44 NS 039714-03/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PT  - Review
+PL  - United States
+TA  - Annu Rev Biomed Eng
+JT  - Annual review of biomedical engineering
+JID - 100883581
+SB  - IM
+MH  - Animals
+MH  - Electric Stimulation/*instrumentation
+MH  - Electric Stimulation Therapy/*instrumentation
+MH  - *Electrodes, Implanted
+MH  - Electrodiagnosis/*instrumentation
+MH  - Equipment Design
+MH  - Humans
+MH  - *Microelectrodes
+MH  - Neurons/*physiology
+MH  - Peripheral Nerves/*physiology
+RF  - 309
+EDAT- 2008/04/24 09:00
+MHDA- 2008/10/08 09:00
+CRDT- 2008/04/24 09:00
+PHST- 2008/04/24 09:00 [pubmed]
+PHST- 2008/10/08 09:00 [medline]
+PHST- 2008/04/24 09:00 [entrez]
+AID - 10.1146/annurev.bioeng.10.061807.160518 [doi]
+PST - ppublish
+SO  - Annu Rev Biomed Eng. 2008;10:275-309. doi: 10.1146/annurev.bioeng.10.061807.160518.
